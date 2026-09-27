@@ -1,0 +1,9 @@
+{
+  "rounds": 25,
+  "adapter_decisions": 6547,
+  "adapter_run_a_equals_run_b": true,
+  "hybrid_decisions": 6547,
+  "hybrid_matches_adapter": 6547,
+  "hybrid_equals_own_prior": 6547,
+  "parity_exact": true
+}

@@ -1,0 +1,6 @@
+hybrid_h3_h8 = H9 (H7 checkpoint, limit 0.25, margin 0.25)
+agent                     decisions  override   |dQ|max
+hybrid_h3_h8              16046    0.0000    0.2499
+hybrid_h10          15277    0.0001    0.1989
+hybrid_h11          15717    0.0003    0.2026
+hybrid_h12          15551    0.1493    0.8377

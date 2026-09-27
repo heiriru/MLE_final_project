@@ -1,0 +1,10 @@
+{"iteration": 0, "seed": 1701, "seat": 0, "rounds": 10, "incumbent_score_per_round": 3.7, "candidate_score_per_round": 4.1, "sigma": 0.02, "accepted": true}
+{"iteration": 1, "seed": 1702, "seat": 1, "rounds": 10, "incumbent_score_per_round": 2.9, "candidate_score_per_round": 3.3, "sigma": 0.02, "accepted": true}
+{"iteration": 2, "seed": 1703, "seat": 2, "rounds": 10, "incumbent_score_per_round": 2.8, "candidate_score_per_round": 5.7, "sigma": 0.02, "accepted": true}
+{"iteration": 3, "seed": 1704, "seat": 3, "rounds": 10, "incumbent_score_per_round": 4.0, "candidate_score_per_round": 3.0, "sigma": 0.02, "accepted": false}
+{"iteration": 4, "seed": 1705, "seat": 0, "rounds": 10, "incumbent_score_per_round": 3.3, "candidate_score_per_round": 1.8, "sigma": 0.02, "accepted": false}
+{"iteration": 5, "seed": 1706, "seat": 1, "rounds": 10, "incumbent_score_per_round": 3.0, "candidate_score_per_round": 3.0, "sigma": 0.02, "accepted": false}
+{"iteration": 6, "seed": 1707, "seat": 2, "rounds": 10, "incumbent_score_per_round": 3.8, "candidate_score_per_round": 3.5, "sigma": 0.02, "accepted": false}
+{"iteration": 7, "seed": 1708, "seat": 3, "rounds": 10, "incumbent_score_per_round": 3.5, "candidate_score_per_round": 3.5, "sigma": 0.02, "accepted": false}
+{"iteration": 8, "seed": 1709, "seat": 0, "rounds": 10, "incumbent_score_per_round": 2.6, "candidate_score_per_round": 4.6, "sigma": 0.02, "accepted": true}
+{"iteration": 9, "seed": 1710, "seat": 1, "rounds": 10, "incumbent_score_per_round": 3.9, "candidate_score_per_round": 3.6, "sigma": 0.02, "accepted": false}
